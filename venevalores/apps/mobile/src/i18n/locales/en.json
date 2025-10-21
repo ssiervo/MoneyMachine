@@ -1,0 +1,66 @@
+{
+  "common": {
+    "ok": "OK",
+    "cancel": "Cancel",
+    "save": "Save",
+    "back": "Back",
+    "delete": "Delete"
+  },
+  "auth": {
+    "signIn": "Sign In",
+    "email": "Email",
+    "password": "Password",
+    "signOut": "Sign Out"
+  },
+  "portfolio": {
+    "title": "Portfolio",
+    "holdings": "Holdings",
+    "totalValue": "Total Value",
+    "chartRanges": {
+      "1W": "1W",
+      "1M": "1M",
+      "1Y": "1Y",
+      "ALL": "All"
+    },
+    "sourceLabel": "Source",
+    "delayedLabel": "Delayed ~15m"
+  },
+  "trades": {
+    "title": "Trades",
+    "newTrade": "New Trade",
+    "buy": "Buy",
+    "sell": "Sell",
+    "quantity": "Quantity",
+    "priceVES": "Price (VES)",
+    "submit": "Send Order Email",
+    "sent": "Sent",
+    "confirmed": "Confirmed",
+    "rejected": "Rejected",
+    "pending": "Pending"
+  },
+  "fx": {
+    "title": "FX Rates",
+    "bcv": "USD (BCV)",
+    "usdt": "USD (USDT)",
+    "eur": "EUR",
+    "timestamp": "Updated",
+    "converter": "Converter"
+  },
+  "settings": {
+    "title": "Settings",
+    "brokerEmail": "Broker Email",
+    "defaultCurrency": "Default Currency",
+    "fxSource": "FX Source",
+    "language": "Language",
+    "language_en": "English",
+    "language_es": "Spanish"
+  },
+  "toasts": {
+    "emailSent": "Email sent to broker",
+    "emailFailed": "Email failed to send"
+  },
+  "errors": {
+    "validation": "Please check the form"
+  },
+  "disclaimer": "Educational & administrative assistant. Not an execution platform."
+}
