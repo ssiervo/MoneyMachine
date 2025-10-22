@@ -1,0 +1,94 @@
+{
+  "app": {
+    "title": "Venevalores",
+    "search": "Buscar símbolos"
+  },
+  "navigation": {
+    "portfolio": "Portafolio",
+    "markets": "Mercados",
+    "symbol": "Símbolo",
+    "trade": "Operar",
+    "predictions": "Predicciones",
+    "news": "Noticias",
+    "settings": "Configuración"
+  },
+  "portfolio": {
+    "equity": "Patrimonio",
+    "cash": "Efectivo",
+    "marketValue": "Valor de mercado",
+    "unrealizedPnl": "Ganancia/pérdida no realizada",
+    "dayPnl": "Ganancia del día",
+    "positions": "Posiciones",
+    "workingOrders": "Órdenes activas",
+    "trades": "Operaciones recientes",
+    "empty": "Sin posiciones. Ejecuta una orden para comenzar."
+  },
+  "markets": {
+    "title": "Mercados",
+    "symbol": "Símbolo",
+    "price": "Precio",
+    "change": "% Cambio",
+    "volume": "Volumen",
+    "searchPlaceholder": "Buscar por símbolo o nombre"
+  },
+  "symbol": {
+    "overview": "Resumen",
+    "orderTicket": "Boleta de orden",
+    "fundamentals": "Fundamentales",
+    "recentTrades": "Operaciones recientes"
+  },
+  "trade": {
+    "title": "Enviar orden",
+    "side": "Lado",
+    "quantity": "Cantidad",
+    "orderType": "Tipo de orden",
+    "market": "Mercado",
+    "limit": "Límite",
+    "limitPrice": "Precio límite",
+    "preview": "Previsualizar",
+    "confirm": "Confirmar",
+    "notional": "Notional",
+    "insufficientCash": "Efectivo insuficiente"
+  },
+  "predictions": {
+    "title": "Sentimiento de la comunidad",
+    "bullish": "Alcista",
+    "bearish": "Bajista",
+    "probability": "Probabilidad"
+  },
+  "news": {
+    "title": "Noticias del mercado"
+  },
+  "settings": {
+    "title": "Configuración",
+    "language": "Idioma",
+    "currency": "Moneda",
+    "theme": "Tema",
+    "refreshInterval": "Intervalo de actualización",
+    "light": "Claro",
+    "dark": "Oscuro"
+  },
+  "actions": {
+    "deposit": "Depositar",
+    "withdraw": "Retirar",
+    "buy": "Comprar",
+    "sell": "Vender",
+    "retry": "Reintentar",
+    "toggleLanguage": "Cambiar idioma",
+    "login": "Iniciar sesión",
+    "logout": "Cerrar sesión"
+  },
+  "common": {
+    "loading": "Cargando...",
+    "error": "Algo salió mal",
+    "empty": "No hay datos",
+    "updated": "Actualizado"
+  },
+  "auth": {
+    "title": "Ingresar",
+    "email": "Correo electrónico",
+    "password": "Contraseña",
+    "submit": "Continuar",
+    "hint": "Usa cualquier correo y contraseña para continuar"
+  }
+}

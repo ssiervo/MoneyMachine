@@ -1,0 +1,82 @@
+[
+  {
+    "symbol": "BVC",
+    "name": "Bolsa de Valores de Caracas",
+    "lastPrice": 12.35,
+    "changePercent": 1.2,
+    "volume": 152340,
+    "currency": "VES"
+  },
+  {
+    "symbol": "FGA",
+    "name": "Fondo de Garantía Andina",
+    "lastPrice": 45.12,
+    "changePercent": -0.8,
+    "volume": 83210,
+    "currency": "VES"
+  },
+  {
+    "symbol": "BANF",
+    "name": "Banco Fondo Común",
+    "lastPrice": 8.9,
+    "changePercent": 0.6,
+    "volume": 95400,
+    "currency": "VES"
+  },
+  {
+    "symbol": "MNDA",
+    "name": "Mercantil Servicios Financieros",
+    "lastPrice": 68.45,
+    "changePercent": 2.1,
+    "volume": 45670,
+    "currency": "VES"
+  },
+  {
+    "symbol": "PVSA",
+    "name": "Petróleos de Venezuela",
+    "lastPrice": 102.4,
+    "changePercent": -1.4,
+    "volume": 128900,
+    "currency": "VES"
+  },
+  {
+    "symbol": "CANT",
+    "name": "Cantv",
+    "lastPrice": 5.32,
+    "changePercent": 0.4,
+    "volume": 238900,
+    "currency": "VES"
+  },
+  {
+    "symbol": "DOMI",
+    "name": "Dominó",
+    "lastPrice": 27.15,
+    "changePercent": 3.3,
+    "volume": 67900,
+    "currency": "VES"
+  },
+  {
+    "symbol": "SIGO",
+    "name": "Supermercados Sigo",
+    "lastPrice": 15.8,
+    "changePercent": 0.9,
+    "volume": 48230,
+    "currency": "VES"
+  },
+  {
+    "symbol": "FDN",
+    "name": "Fondo Nacional",
+    "lastPrice": 11.02,
+    "changePercent": -0.3,
+    "volume": 39210,
+    "currency": "VES"
+  },
+  {
+    "symbol": "VTL",
+    "name": "Venezolana de Turismo",
+    "lastPrice": 19.67,
+    "changePercent": 1.7,
+    "volume": 59800,
+    "currency": "VES"
+  }
+]
