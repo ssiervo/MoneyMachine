@@ -1,0 +1,94 @@
+{
+  "app": {
+    "title": "Venevalores",
+    "search": "Search symbols"
+  },
+  "navigation": {
+    "portfolio": "Portfolio",
+    "markets": "Markets",
+    "symbol": "Symbol",
+    "trade": "Trade",
+    "predictions": "Predictions",
+    "news": "News",
+    "settings": "Settings"
+  },
+  "portfolio": {
+    "equity": "Equity",
+    "cash": "Cash",
+    "marketValue": "Market value",
+    "unrealizedPnl": "Unrealized P&L",
+    "dayPnl": "Day P&L",
+    "positions": "Positions",
+    "workingOrders": "Working orders",
+    "trades": "Recent trades",
+    "empty": "No positions yet. Place a trade to get started."
+  },
+  "markets": {
+    "title": "Markets",
+    "symbol": "Symbol",
+    "price": "Price",
+    "change": "% Change",
+    "volume": "Volume",
+    "searchPlaceholder": "Search by symbol or name"
+  },
+  "symbol": {
+    "overview": "Overview",
+    "orderTicket": "Order ticket",
+    "fundamentals": "Fundamentals",
+    "recentTrades": "Recent trades"
+  },
+  "trade": {
+    "title": "Place trade",
+    "side": "Side",
+    "quantity": "Quantity",
+    "orderType": "Order type",
+    "market": "Market",
+    "limit": "Limit",
+    "limitPrice": "Limit price",
+    "preview": "Preview order",
+    "confirm": "Confirm order",
+    "notional": "Notional",
+    "insufficientCash": "Insufficient cash for this order"
+  },
+  "predictions": {
+    "title": "Community sentiment",
+    "bullish": "Bullish",
+    "bearish": "Bearish",
+    "probability": "Probability"
+  },
+  "news": {
+    "title": "Market news"
+  },
+  "settings": {
+    "title": "Settings",
+    "language": "Language",
+    "currency": "Currency",
+    "theme": "Theme",
+    "refreshInterval": "Refresh interval",
+    "light": "Light",
+    "dark": "Dark"
+  },
+  "actions": {
+    "deposit": "Deposit",
+    "withdraw": "Withdraw",
+    "buy": "Buy",
+    "sell": "Sell",
+    "retry": "Retry",
+    "toggleLanguage": "Toggle language",
+    "login": "Log in",
+    "logout": "Log out"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "Something went wrong",
+    "empty": "Nothing to show",
+    "updated": "Updated"
+  },
+  "auth": {
+    "title": "Sign in",
+    "email": "Email",
+    "password": "Password",
+    "submit": "Continue",
+    "hint": "Use any email and password to continue"
+  }
+}
